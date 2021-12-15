@@ -1,10 +1,10 @@
 # 안드로이드 면접 질문 정리
 
-##  MVC, MVP, MVVM
+###  MVC, MVP, MVVM
 https://www.notion.so/64fa4952fb804ad28af7b96913cbf9b5
 
-## Thread, Handler, Looper
+### Thread, Handler, Looper
 https://www.notion.so/Thread-Handler-Looper-ea385bca30ed4bfc958f8dfc6d923261
 
-## Rx Java
+### Rx Java
 https://www.notion.so/Rx-Java-1d9e4ab712c24624ab54f783bf45f770
