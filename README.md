@@ -20,3 +20,9 @@ https://www.notion.so/Design-Pattern-fc0d7fb7ad05457a8d6bfda173b9975a
 
 ### RecyclerView
 https://www.notion.so/Recyclerview-14caa76d8c1e4ce59a565f3cd0c5ace3
+
+### SQLite
+https://www.notion.so/SQLite-ee3219b637714d3d98e157ba1a744c77
+
+### Realm
+https://www.notion.so/Realm-032124614d3f459987444f8dba53b340
