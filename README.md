@@ -26,3 +26,6 @@ https://www.notion.so/SQLite-ee3219b637714d3d98e157ba1a744c77
 
 ### Realm
 https://www.notion.so/Realm-032124614d3f459987444f8dba53b340
+
+### Retrofit
+https://www.notion.so/Retrofit-339b89f532f54c4c8d0f8e2533a17d64
