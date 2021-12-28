@@ -1,4 +1,4 @@
-# 안드로이드 면접 질문 정리
+# Interview
 
 ###  MVC, MVP, MVVM
 https://www.notion.so/64fa4952fb804ad28af7b96913cbf9b5
@@ -29,3 +29,12 @@ https://www.notion.so/Realm-032124614d3f459987444f8dba53b340
 
 ### Retrofit
 https://www.notion.so/Retrofit-339b89f532f54c4c8d0f8e2533a17d64
+
+### Room
+https://www.notion.so/Room-f891f6423b5d47d2a339a54305161e4b
+
+### Jetpack
+https://www.notion.so/Jetpack-df34fe00abbb497f9cc05c389d44dc76
+
+### 프로그래밍
+https://www.notion.so/af6cbd95a65e42438bb5a53ae98422c0
